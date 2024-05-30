@@ -4,4 +4,6 @@ Arithmatic Logic Units (ALU's) are critical components within most digital syste
 
 ### Getting started
 
-The VHDL program was designed to run in Quartus on the DE10-lite FPGA board. The program simply has to be run in Quartus while having quartus recognize the FGPA board through the device settings. The switches are used to control the numbers inputted into the ALU, while a push button is used to signal that the operation should be performed. The first two switches from the right determine the 2 bit input, the next two switches the other 2-bit input, the next 4 being the operation code, and the final 2 being address to use when displaying the value from the memory. 
+The VHDL program was designed to run in Quartus on the DE10-lite FPGA board. The program simply has to be run in Quartus while having quartus recognize the FGPA board through the device settings. The switches are used to control the numbers inputted into the ALU, while a push button is used to signal that the operation should be performed. The first two switches from the right determine the 2 bit input, the next two switches the other 2-bit input, the next 4 being the operation code, and the final 2 being address to use when displaying the value from the memory.
+
+The focuses of this project was to learn how memory would could be stored, and what the process of building a digital system looks like. Everything from inputs to timing to flow charts were considered when building this project, and as such enchanced my understanding of how a microprocessor could start out with being built.
